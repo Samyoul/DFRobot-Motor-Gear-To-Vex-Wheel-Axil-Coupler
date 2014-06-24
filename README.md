@@ -1,4 +1,4 @@
-DFRobot-Motor-Gear-To-Vex-Wheel-Axil-Coupler
+DFRobot Motor Gear To Vex Wheel Axil Coupler
 ============================================
 
 I struggled to find any good solution for my problem of attaching Vex 70mm Omni Directional wheels to my robot powered with DFRobot geared motors.
